@@ -1,0 +1,36 @@
+.center {
+    text-align: center;
+}
+
+.mt {
+    margin-top: 25px;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.judul {
+    font-size: 48px;
+}
+
+.account {
+    margin-top: 10px;
+    display: flex;
+}
+
+.account img {
+    width: 25px;
+    height: 25px;
+    margin-right: 15px;
+}
+
+.sidenav-trigger {
+    font-size: 25px;
+}
+
+@media (max-width: 767.98px) {
+    .judul {
+        font-size: 25px;
+    }
+}
